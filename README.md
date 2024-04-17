@@ -2,7 +2,7 @@
 
 This repository contains the source code to reproduce the results of our paper: 
 
-`Karn, Rupesh Raj, Johann Knechtel, and Ozgur Sinanoglu "Code-Based Cryptography for Confidential Inference on FPGAs: An End-to-End Methodology". (Under Review)`.  
+`Karn, Rupesh Raj, Johann Knechtel, and Ozgur Sinanoglu "Code-Based Cryptography for Confidential Inference on FPGAs: An End-to-End Methodology". ISQED 2024`.  
 
 Software implementation and verification of the encrypted model is performed in `McEleice_RF_conifer_MNIST_train_val_test.ipynb` and `RF_conifer_JetTagging_train_val_test.ipynb` notebook files for MNIST and JetTagging dataset.
 
